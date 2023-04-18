@@ -50,9 +50,8 @@ body {
 }
 .notice_portfolio .flex {
   display: flex;
-  justify-content: space-between;
   flex-direction: column;
-  gap: 50px;
+  gap: 10px;
 }
 /* .notice_portfolio .flex > div {
   width: 50%;
